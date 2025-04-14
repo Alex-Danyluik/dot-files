@@ -1,0 +1,7 @@
+
+[font]
+normal = { family = "JetBrainsMono NF", style="Regular"}
+size = 16
+
+[general]
+import = ["~/.alacritty/themes/gruvbox-dark-hard-256-alacritty.toml"]
