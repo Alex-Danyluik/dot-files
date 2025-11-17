@@ -1,0 +1,76 @@
+# Dracula theme for Alacritty
+# https://draculatheme.com/alacritty
+#
+# Color palette
+# https://spec.draculatheme.com
+#
+# Instructions
+# https://github.com/alacritty/alacritty/blob/master/extra/man/alacritty.5.scd
+
+[colors.primary]
+
+background = "#101010"
+foreground = "#ffffff"
+bright_foreground = "#ffffff"
+
+[colors.cursor]
+
+text = "#55ff55"
+cursor = "#ffffff"
+
+[colors.vi_mode_cursor]
+
+text = "CellBackground"
+cursor = "CellForeground"
+
+[colors.selection]
+
+text = "CellForeground"
+background = "#303030"
+
+[colors.normal]
+
+black = "#101010"
+red = "#ff5533"
+green = "#55ff55"
+yellow = "#faffaa"
+blue = "#aafaff"
+magenta = "#aafaaa"
+cyan = "#aafffa"
+white = "#ffffff"
+
+[colors.bright]
+
+black = "#303030"
+red = "#ff7766"
+green = "#77ff77"
+yellow = "#fcffcc"
+blue = "#ccfcff"
+magenta = "#ccfccc"
+cyan = "#ccfffc"
+white = "#ffffff"
+
+[colors.search.matches]
+
+foreground = "#00ff00"
+background = "#101010"
+
+[colors.search.focused_match]
+
+foreground = "#00ff00"
+background = "#303030"
+
+[colors.footer_bar]
+
+background = "#303030"
+foreground = "#00ff00"
+
+[colors.hints.start]
+
+foreground = "#00ff00"
+background = "#303030"
+
+[colors.hints.end]
+
+foreground = "#00ff00"
+background = "#303030"
