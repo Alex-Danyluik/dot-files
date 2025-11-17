@@ -1,6 +1,6 @@
 " Name:         mild-dark
 " Description:  Colorscheme inspired from tsoding
-" Author:       Original author
+" Author:       Original author 
 " Maintainer:   Original maintainer
 " Website:      https://github.com/vim/colorschemes
 " License:      Same as Vim
@@ -18,11 +18,11 @@ hi PmenuSel guifg=#ffffff guibg=#303030 gui=NONE cterm=NONE
 hi PmenuMatch guifg=#55ff55 guibg=#303030 gui=NONE cterm=NONE
 hi PmenuMatchSel guifg=#55ff55 guibg=#303030 gui=NONE cterm=NONE
 hi QuickFixLine guifg=#55ff55 guibg=#303030 gui=NONE cterm=NONE
-hi ColorColumn guifg=NONE guibg=#101010 gui=NONE cterm=NONE
+hi ColorColumn guifg=NONE guibg=#181818 gui=NONE cterm=NONE
 hi Conceal guifg=#55ff55 guibg=NONE gui=NONE cterm=NONE
-hi Cursor guifg=#303030 guibg=#55ff55 gui=NONE cterm=NONE
-hi CursorColumn guifg=NONE guibg=#303030 gui=NONE cterm=NONE
-hi CursorIM guifg=#303030 guibg=#55ff55 gui=NONE cterm=NONE
+hi Cursor guifg=#ffffff guibg=#55ff55 gui=NONE cterm=NONE
+hi CursorColumn guifg=NONE guibg=#101010 gui=NONE cterm=NONE
+hi CursorIM guifg=#ffffff guibg=#55ff55 gui=NONE cterm=NONE
 hi CursorLineNr guifg=#303030 guibg=#55ff55 gui=bold cterm=NONE
 hi EndOfBuffer guifg=#303030 guibg=#101010 gui=NONE cterm=NONE
 hi Error guifg=#ff5533 guibg=#101010 gui=reverse cterm=reverse
@@ -31,7 +31,7 @@ hi FoldColumn guifg=#303030 guibg=NONE gui=NONE cterm=NONE
 hi Folded guifg=#aaaaaa guibg=#303030 gui=NONE cterm=NONE
 hi IncSearch guifg=#aaff88 guibg=#101010 gui=standout cterm=reverse
 hi LineNr guifg=#303030 guibg=NONE gui=NONE cterm=NONE
-hi MatchParen guifg=#909980 guibg=NONE gui=reverse ctermfg=NONE ctermbg=NONE cterm=reverse
+hi MatchParen guifg=#ffffff guibg=NONE gui=reverse ctermfg=NONE ctermbg=NONE cterm=reverse
 hi ModeMsg guifg=#55ff55 guibg=#101010 gui=NONE cterm=NONE
 hi MoreMsg guifg=#55ff55 guibg=NONE gui=NONE cterm=NONE
 hi NonText guifg=#303030 guibg=NONE gui=NONE cterm=NONE
@@ -65,7 +65,7 @@ hi Ignore guifg=#303030 guibg=NONE gui=NONE cterm=NONE
 hi PreProc guifg=#ffffff guibg=NONE gui=NONE cterm=NONE
 hi Special guifg=#55ff55 guibg=NONE gui=NONE cterm=NONE
 hi Statement guifg=#55ff55 guibg=NONE gui=NONE cterm=NONE
-hi Todo guifg=#ff5533 guibg=#ffffff gui=NONE ctermfg=NONE cterm=NONE
+hi Todo guifg=#ff5533 guibg=#303030 gui=NONE ctermfg=NONE cterm=NONE
 hi Type guifg=#55ff55 guibg=NONE gui=bold cterm=NONE
 hi Underlined guifg=NONE guibg=NONE gui=underline ctermfg=NONE ctermbg=NONE cterm=underline
 hi Label guifg=#ffffff guibg=NONE gui=NONE cterm=NONE
