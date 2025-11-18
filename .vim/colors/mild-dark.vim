@@ -54,12 +54,12 @@ hi Visual guifg=NONE guibg=#303030 gui=NONE cterm=NONE
 hi VisualNOS guifg=#ffffff guibg=#303030 gui=NONE cterm=NONE
 hi WarningMsg guifg=#ffaa33 guibg=NONE gui=NONE cterm=NONE
 hi WildMenu guifg=#55ff55 guibg=#101010 gui=NONE cterm=NONE
-hi debugBreakpoint guifg=#666666 guibg=#101010 gui=reverse cterm=reverse
+hi debugBreakpoint guifg=#303030 guibg=#101010 gui=reverse cterm=reverse
 hi debugPC guifg=#55ff55 guibg=#101010 gui=reverse cterm=reverse
 hi Directory guifg=#55ff55 guibg=NONE gui=NONE cterm=NONE
 hi Title guifg=#55ff55 guibg=NONE gui=NONE cterm=NONE
 hi Comment guifg=#555555 guibg=NONE gui=bold cterm=NONE
-hi Constant guifg=#faffaa guibg=NONE gui=NONE cterm=NONE
+hi Constant guifg=#cccccc guibg=NONE gui=NONE cterm=NONE
 hi Identifier guifg=#ffffff guibg=NONE gui=NONE cterm=NONE
 hi Ignore guifg=#303030 guibg=NONE gui=NONE cterm=NONE
 hi PreProc guifg=#ffffff guibg=NONE gui=NONE cterm=NONE
