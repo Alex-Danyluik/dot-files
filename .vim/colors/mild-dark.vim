@@ -59,7 +59,7 @@ hi debugPC guifg=#55ff55 guibg=#101010 gui=reverse cterm=reverse
 hi Directory guifg=#55ff55 guibg=NONE gui=NONE cterm=NONE
 hi Title guifg=#55ff55 guibg=NONE gui=NONE cterm=NONE
 hi Comment guifg=#555555 guibg=NONE gui=bold cterm=NONE
-hi Constant guifg=#cccccc guibg=NONE gui=NONE cterm=NONE
+hi Constant guifg=#888888 guibg=NONE gui=NONE cterm=NONE
 hi Identifier guifg=#ffffff guibg=NONE gui=NONE cterm=NONE
 hi Ignore guifg=#303030 guibg=NONE gui=NONE cterm=NONE
 hi PreProc guifg=#ffffff guibg=NONE gui=NONE cterm=NONE
