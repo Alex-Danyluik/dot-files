@@ -15,7 +15,7 @@ bright_foreground = "#ffffff"
 
 [colors.cursor]
 
-text = "#55ff55"
+text = "#888888"
 cursor = "#ffffff"
 
 [colors.vi_mode_cursor]
@@ -33,27 +33,16 @@ background = "#303030"
 black = "#101010"
 red = "#ff5533"
 green = "#55ff55"
-yellow = "#faffaa"
-blue = "#aafaff"
-magenta = "#aafaaa"
-cyan = "#aafffa"
-white = "#ffffff"
-
-[colors.bright]
-
-black = "#303030"
-red = "#ff7766"
-green = "#77ff77"
-yellow = "#fcffcc"
-blue = "#ccfcff"
-magenta = "#ccfccc"
-cyan = "#ccfffc"
+yellow = "#888888"
+blue = "#888888"
+magenta = "#888888"
+cyan = "#888888"
 white = "#ffffff"
 
 [colors.search.matches]
 
-foreground = "#00ff00"
-background = "#101010"
+foreground = "#888888"
+background = "#303030"
 
 [colors.search.focused_match]
 
