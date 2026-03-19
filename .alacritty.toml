@@ -1,6 +1,5 @@
-[font]
-normal = { family = "JetBrainsMono NF", style="Regular"}
-size = 18
-
 [general]
-import = ["~/.alacritty/themes/mild-dark.toml"]
+import = ["/home/alexd/.alacritty/themes/gotham.toml"]
+[font]
+size = 20
+normal = {family= "MartianMono Nerd Font Mono", style= "medium"}
