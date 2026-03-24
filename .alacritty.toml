@@ -3,3 +3,6 @@ import = ["/home/alexd/.alacritty/themes/gotham.toml"]
 [font]
 size = 20
 normal = {family= "MartianMono Nerd Font Mono", style= "medium"}
+[window]
+opacity = 0.90
+blur = true
