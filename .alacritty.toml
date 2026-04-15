@@ -1,8 +1,9 @@
 [general]
 import = ["/home/alexd/.alacritty/themes/classic.toml"]
 [font]
-size = 20
-normal = {family= "MartianMono Nerd Font Mono", style= "medium"}
+size = 22
+normal = {family= "FantasqueSansM Nerd Font Mono", style="italic"}
+offset = {x=1,y=2}
 [window]
 opacity = 0.90
 blur = true
