@@ -1,5 +1,5 @@
 [general]
-import = ["/home/alexd/.alacritty/themes/gotham.toml"]
+import = ["/home/alexd/.alacritty/themes/classic.toml"]
 [font]
 size = 20
 normal = {family= "MartianMono Nerd Font Mono", style= "medium"}

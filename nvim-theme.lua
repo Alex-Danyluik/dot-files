@@ -1,9 +1,9 @@
 return {
-  { "whatyouhide/vim-gotham" },
+  { "nyoom-engineering/oxocarbon.nvim" },
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "gotham",
+      colorscheme = "oxocarbon",
     },
   },
 }
