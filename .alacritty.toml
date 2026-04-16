@@ -1,5 +1,5 @@
 [general]
-import = ["/home/alexd/.alacritty/themes/classic.toml"]
+import = ["/home/alexd/.alacritty/themes/oxycarbon.toml"]
 [font]
 size = 22
 normal = {family= "FantasqueSansM Nerd Font Mono", style="italic"}
