@@ -1,9 +1,7 @@
 [general]
-import = ["/home/alexd/.alacritty/themes/oxycarbon.toml"]
+import = ["/Users/alexd/.alacritty/themes/orango.toml"]
 [font]
 size = 22
-normal = {family= "FantasqueSansM Nerd Font Mono", style="italic"}
-offset = {x=1,y=2}
-[window]
-opacity = 0.90
-blur = true
+# normal = {family= "FantasqueSansM Nerd Font Mono", style="italic"}
+normal = {family= "FantasqueSansM Nerd Font Mono"}
+offset = {x=4,y=4}

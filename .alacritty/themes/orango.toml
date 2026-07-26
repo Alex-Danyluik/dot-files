@@ -1,0 +1,71 @@
+# Orango theme for Alacritty
+# Matches ~/.vim/colors/orango.vim
+
+[colors.primary]
+
+background = "#160d08"
+foreground = "#ead5b5"
+dim_foreground = "#b0835c"
+bright_foreground = "#f5e2c2"
+
+[colors.cursor]
+
+text = "#160d08"
+cursor = "#ff9d4d"
+
+[colors.vi_mode_cursor]
+
+text = "#160d08"
+cursor = "#e7a14a"
+
+[colors.selection]
+
+text = "CellForeground"
+background = "#382216"
+
+[colors.normal]
+
+black = "#24160d"
+red = "#dc6448"
+green = "#aa9856"
+yellow = "#d9903f"
+blue = "#b0835c"
+magenta = "#f08a3c"
+cyan = "#efaa6f"
+white = "#ead5b5"
+
+[colors.bright]
+
+black = "#755038"
+red = "#dc6448"
+green = "#aa9856"
+yellow = "#e7a14a"
+blue = "#b0835c"
+magenta = "#ff9d4d"
+cyan = "#efaa6f"
+white = "#f5e2c2"
+
+[colors.search.matches]
+
+foreground = "#160d08"
+background = "#f08a3c"
+
+[colors.search.focused_match]
+
+foreground = "#160d08"
+background = "#e7a14a"
+
+[colors.footer_bar]
+
+background = "#382216"
+foreground = "#efaa6f"
+
+[colors.hints.start]
+
+foreground = "#160d08"
+background = "#e7a14a"
+
+[colors.hints.end]
+
+foreground = "#160d08"
+background = "#efaa6f"

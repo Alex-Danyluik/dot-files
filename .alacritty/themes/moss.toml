@@ -1,0 +1,71 @@
+# Kokedera - Moss Temple theme for Alacritty
+# Matches ~/.vim/colors/moss.vim
+
+[colors.primary]
+
+background = "#121a11"
+foreground = "#c8d8b8"
+dim_foreground = "#7a9070"
+bright_foreground = "#d4c88e"
+
+[colors.cursor]
+
+text = "#121a11"
+cursor = "#5ae65a"
+
+[colors.vi_mode_cursor]
+
+text = "#121a11"
+cursor = "#7ec46c"
+
+[colors.selection]
+
+text = "CellForeground"
+background = "#2a3d26"
+
+[colors.normal]
+
+black = "#121a11"
+red = "#c45a5a"
+green = "#4ca64c"
+yellow = "#bfa243"
+blue = "#3d9970"
+magenta = "#9a7abf"
+cyan = "#5a9e8f"
+white = "#c8d8b8"
+
+[colors.bright]
+
+black = "#4a5a44"
+red = "#c45a5a"
+green = "#7ec46c"
+yellow = "#d4c88e"
+blue = "#5a9e8f"
+magenta = "#9a7abf"
+cyan = "#8fbf6f"
+white = "#d4c88e"
+
+[colors.search.matches]
+
+foreground = "#121a11"
+background = "#d4c88e"
+
+[colors.search.focused_match]
+
+foreground = "#121a11"
+background = "#5ae65a"
+
+[colors.footer_bar]
+
+background = "#2a3d26"
+foreground = "#7ec46c"
+
+[colors.hints.start]
+
+foreground = "#121a11"
+background = "#5ae65a"
+
+[colors.hints.end]
+
+foreground = "#121a11"
+background = "#d4c88e"
